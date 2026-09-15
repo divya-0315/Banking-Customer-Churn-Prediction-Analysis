@@ -1,0 +1,5 @@
+Scenario,Expected_Churn_Customers,Customers_Retained
+No Retention Strategy,4750,0
+10% Reduction,4275,475
+20% Reduction,3800,950
+30% Reduction,3325,1425
